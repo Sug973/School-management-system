@@ -70,17 +70,4 @@ A school management software is a collection of computer instructions, specially
 
 ### Librarian Functionalities:
 
- - Can Add New Book. 
- - Can Delete Book. 
- - Can Update Book Information.
- - Can view Student list. 
- - Can View Teacher list. 
- - Can create library accounts for students and teachers. 
- - Can update library accounts for students and teachers. 
- - Can block library accounts for students and teachers. 
- - Can Delete library accounts for students and teachers. 
- - Can check who took the book and didn’t return. 
- - Can earch book information and View details (available books, shelf no etc.) 
- - Can add fine. Can give new book arrival notice. 
- - Can pprove order request of books. 
- - Can add information of issued and returned books to database.
+ I edited this
